@@ -1,6 +1,6 @@
 # AI and Deep Learning Techniques for Early Detection, Diagnosis, and Classification of Lung Cancer: A Survey
 
-
+![img](https://github.com/user-attachments/assets/584875dd-2db6-4b97-8b2d-245ef0b801a8)
 
 ## Project Overview
 
