@@ -1,5 +1,12 @@
 # AI and Deep Learning Techniques for Early Detection, Diagnosis, and Classification of Lung Cancer: A Survey
 
+Authors: [Guohui Cai](https://github.com/CaiGuoHui123), [Ying Cai](https://ieeexplore.ieee.org/author/37087137422)*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/), [Daji Ergu](https://ieeexplore.ieee.org/author/37085795653),
+[Lin Wu], [Zhinbin Liao](https://researchers.adelaide.edu.au/profile/zhibin.liao#), Binbin Hu, [Yang Zhao](https://yangyangkiki.github.io/)
+
+*Corresponding author
+
+[[**Paper Link**]()] [[Papers With Code]()]
+
 ![img](https://github.com/user-attachments/assets/584875dd-2db6-4b97-8b2d-245ef0b801a8)
 
 ## Project Overview
