@@ -6,10 +6,8 @@ Authors: [Guohui Cai](https://github.com/CaiGuoHui123), [Ying Cai](https://ieeex
 
 [[**Paper Link**]()] [[Papers With Code]()]
 
-![img](https://github.com/user-attachments/assets/584875dd-2db6-4b97-8b2d-245ef0b801a8)
-
 ## Project Overview
-
+![img](https://github.com/user-attachments/assets/584875dd-2db6-4b97-8b2d-245ef0b801a8)
 This project focuses on the application of deep learning techniques to the detection, segmentation, and classification of pulmonary nodules in CT images, particularly for early-stage lung cancer detection. The methods leverage advanced neural networks such as Convolutional Neural Networks (CNNs), U-Nets, and their variants to improve diagnostic accuracy, reduce false positives, and enhance the overall sensitivity of Computer-Aided Diagnosis (CAD) systems.
 
 The project is built upon two prominent datasets: **LIDC-IDRI** and **LUNA16**, both of which are publicly available and widely used in lung nodule research. By utilizing these datasets, the project aims to achieve a more comprehensive analysis of the performance of deep learning models in the medical imaging field.
