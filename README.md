@@ -69,54 +69,42 @@ This project highlights the potential of deep learning models in improving the a
 This research has been supported by the National Natural Science Foundation of China (Grant No. 72174172) and the Scientific and Technological Innovation Team for Qinghai-Tibetan Plateau Research at Southwest Minzu University (Grant No. 2024CXTD20). We sincerely appreciate their valuable support, which made this work possible.
 
 ## Key Papers
-- Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries https://doi.org/10.3322/caac.21660
-- Machine learning techniques for pulmonary nodule computer-aided diagnosis using CT images: A systematic review https://doi.org/10.1016/j.bspc.2023.104104
+- Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries https://doi.org/10.3322/caac.21834
 - Imagenet classification with deep convolutional neural networks https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
-- Analysis based on machine and deep learning techniques for the accurate detection of lung nodules from CT images https://doi.org/10.1016/j.bspc.2023.105055
-- A Bird’s Eye View Approach on the Usage of Deep Learning Methods in Lung Cancer Detection and Future Directions Using X-Ray and CT Images https://doi.org/10.1007/s11831-023-09749-6
 - Support-vector networks https://doi.org/10.1007/BF00994018
 - Nearest neighbor pattern classification https://ieeexplore.ieee.org/document/1053964
 - Extreme learning machine: theory and applications https://doi.org/10.1016/j.neucom.2005.12.126
 - A training algorithm for optimal margin classifiers https://dl.acm.org/doi/10.1145/130385.130401
-- Discriminatory analysis, nonparametric discrimination https://www.af.mil/Portals/1/documents/rr/51fix.pdf
-- Image classification using convolutional neural networks and kernel extreme learning machines https://ieeexplore.ieee.org/document/8451535
+- Image classification using convolutional neural networks and kernel extreme learning machines https://ieeexplore.ieee.org/document/8451560
 - Learning representations by back-propagating errors https://doi.org/10.1038/323533a0
-- Generative adversarial nets https://papers.nips.cc/paper/5423-generative-adversarial-nets
 - A fast learning algorithm for deep belief nets https://doi.org/10.1162/neco.2006.18.7.1527
 - Gradient-based learning applied to document recognition https://ieeexplore.ieee.org/document/726791
 - Deep residual learning for image recognition https://ieeexplore.ieee.org/document/7780459
-- Faster r-cnn: Towards real-time object detection with region proposal networks https://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks
 - U-net: Convolutional networks for biomedical image segmentation https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28
 - You only look once: Unified, real-time object detection https://ieeexplore.ieee.org/document/7780460
 - Ssd: Single shot multibox detector https://link.springer.com/chapter/10.1007/978-3-319-46448-0_2
 - Long short-term memory https://doi.org/10.1162/neco.1997.9.8.1735
 - Learning phrase representations using RNN encoder-decoder for statistical machine translation https://arxiv.org/abs/1406.1078
 - The lung image database consortium (LIDC) and image database resource initiative (IDRI): a completed reference database of lung nodules on CT scans https://doi.org/10.1118/1.3528204
-- Validation, comparison, and combination of algorithms for automatic detection of pulmonary nodules in computed tomography images: the LUNA16 challenge https://doi.org/10.1016/j.media.2017.06.001
+- Validation, comparison, and combination of algorithms for automatic detection of pulmonary nodules in computed tomography images: the LUNA16 challenge https://doi.org/10.1016/j.media.2017.06.015
 - Early lung cancer action project: a summary of the findings on baseline screening https://doi.org/10.1634/theoncologist.6-2-147
 - Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach https://doi.org/10.1038/ncomms5006
-- Comparing and combining algorithms for computer-aided detection of pulmonary nodules in computed tomography scans: the ANODE09 study https://doi.org/10.1016/j.media.2010.05.003
+- Comparing and combining algorithms for computer-aided detection of pulmonary nodules in computed tomography scans: the ANODE09 study https://doi.org/10.1016/j.media.2010.05.005
 - An adaptive morphology based segmentation technique for lung nodule detection in thoracic CT image https://doi.org/10.1016/j.cmpb.2020.105720
 - Light deep model for pulmonary nodule detection from CT scan images for mobile devices https://doi.org/10.1155/2020/8893494
-- An effective neural network model for lung nodule detection in CT images with optimal fuzzy model https://doi.org/10.1007/s11042-020-08813-x
 - Fusion of 3D lung CT and serum biomarkers for diagnosis of multiple pathological types on pulmonary nodules https://doi.org/10.1016/j.cmpb.2021.106381
-- A novel deep learning framework for lung nodule detection in 3D CT images https://doi.org/10.1007/s11042-021-11608-1
-- Automatic lung nodule detection in thoracic CT scans using dilated slice-wise convolutions https://doi.org/10.1002/mp.14902
-- Deep convolutional neural networks for multiplanar lung nodule detection: Improvement in small nodule identification https://doi.org/10.1002/mp.14679
-- Diagnosis of Pulmonary Nodules on CT Images Using YOLOv4 https://doi.org/10.3991/ijoe.v18i05.27939
-- Lung nodule detection and classification from Thorax CT-scan using RetinaNet with transfer learning https://doi.org/10.1016/j.jksuci.2020.07.010
-- Prediction and Classification of CT images for Early Detection of Lung Cancer Using Various Segmentation Models https://doi.org/10.23956/ijheer.v10i4.1027
-- A novel deep learning model based on multi-scale and multi-view for detection of pulmonary nodules https://doi.org/10.1007/s10278-023-00655-6
-- Auto diagnostic system for detecting solitary and juxtapleural pulmonary nodules in computed tomography images using machine learning https://doi.org/10.1007/s00521-022-07673-2
-- Pulmonary lung nodule detection from computed tomography images using two-stage convolutional neural network https://doi.org/10.1093/comjnl/bxad045
-- Pulmonary lung nodule detection and classification through image enhancement and deep learning https://doi.org/10.1504/IJBM.2023.126939
+- Automatic lung nodule detection in thoracic CT scans using dilated slice-wise convolutions https://doi.org/10.1002/mp.14915
+- Deep convolutional neural networks for multiplanar lung nodule detection: Improvement in small nodule identification https://doi.org/10.1002/mp.14648
+- Pulmonary lung nodule detection from computed tomography images using two-stage convolutional neural network https://doi.org/10.1093/comjnl/bxab191
+- Pulmonary lung nodule detection and classification through image enhancement and deep learning https://doi.org/10.1504/IJBM.2023.130637
 - An interpretable three-dimensional artificial intelligence model for computer-aided diagnosis of lung nodules in computed tomography images https://doi.org/10.3390/cancers15184655
-- A novel deep learning approach for the detection and classification of lung nodules from CT images https://doi.org/10.1007/s11042-023-14890-z
-- Nodule Detection Using Local Binary Pattern Features to Enhance Diagnostic Decisions https://doi.org/10.32604/cmc.2024.030682
 - Wavelet U-Net++ for accurate lung nodule segmentation in CT scans: Improving early detection and diagnosis of lung cancer https://doi.org/10.1016/j.bspc.2023.105509
 - MEDS-Net: Multi-encoder based self-distilled network with bidirectional maximum intensity projections fusion for lung nodule detection https://doi.org/10.1016/j.engappai.2023.107597
-- DBPNDNet: dual-branch networks using 3DCNN toward pulmonary nodule detection https://doi.org/10.1007/s11517-023-02769-3
-- Lung cancer detection from thoracic CT scans using an ensemble of deep learning models https://doi.org/10.1007/s00521-023-08237-x
+- DBPNDNet: dual-branch networks using 3DCNN toward pulmonary nodule detection https://link.springer.com/article/10.1007/s11517-023-02957-1
+
+
+
+
 - An early prediction and classification of lung nodule diagnosis on CT images based on hybrid deep learning techniques https://doi.org/10.1007/s11042-023-15347-6
 - Mask R-CNN-based detection and segmentation for pulmonary nodule 3D visualization diagnosis https://doi.org/10.1109/ACCESS.2020.2977139
 - A two-stage convolutional neural networks for lung nodule detection https://doi.org/10.1109/JBHI.2020.2965515
@@ -228,7 +216,7 @@ This research has been supported by the National Natural Science Foundation of C
 - Transformers are SSMs: Generalized models and efficient algorithms through structured state space duality https://arxiv.org/abs/2405.21060
 - Motion mamba: Efficient and long sequence motion generation with hierarchical and bidirectional selective ssm https://arxiv.org/abs/2403.07487
 - InfiniMotion: Mamba Boosts Memory in Transformer for Arbitrary Long Motion Generation https://arxiv.org/abs/2407.10061
-- Classification of non-small cell lung cancers using deep convolutional neural networks https://doi.org/10.1007/s11042-024-12809-8
+
 
 
 
