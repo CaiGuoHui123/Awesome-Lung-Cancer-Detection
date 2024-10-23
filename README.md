@@ -59,9 +59,9 @@ This project highlights the potential of deep learning models in improving the a
 - Guohui Cai: Conceptualization, Investigation, Writing – original draft
 - Ying Cai: Investigation, Writing – original draft
 - Zeyu Zhang：Writing – review & editing
-- Daji Ergu: Supervision
+- Yuanzhouhan Cao: Methodology, Writing – review & editing
 - Lin Wu: Investigation, Methodology
-- Binbin Hu: Methodology
+- Daji Ergu: Supervision
 - Zhibin Liao: Validation
 - Yang Zhao: Investigation, Supervision
 
