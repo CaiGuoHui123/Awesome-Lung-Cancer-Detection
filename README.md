@@ -8,6 +8,16 @@ Authors: [Guohui Cai](https://github.com/CaiGuoHui123), [Ying Cai](https://ieeex
 
 ![img](https://github.com/user-attachments/assets/584875dd-2db6-4b97-8b2d-245ef0b801a8)
 
+## Citation
+```
+@article{cai2024medical,
+  title={Medical ai for early detection of lung cancer: A survey},
+  author={Cai, Guohui and Cai, Ying and Zhang, Zeyu and Cao, Yuanzhouhan and Wu, Lin and Ergu, Daji and Liao, Zhinbin and Zhao, Yang},
+  journal={arXiv preprint arXiv:2410.14769},
+  year={2024}
+}
+```
+
 ## Abstract
 Lung cancer remains one of the leading causes of morbidity and mortality worldwide, making early diagnosis critical for improving therapeutic outcomes and patient prognosis. Computer-aided diagnosis (CAD) systems, which analyze CT images, have proven effective in detecting and classifying pulmonary nodules, significantly enhancing the detection rate of early-stage lung cancer. Although traditional machine learning algorithms have been valuable, they exhibit limitations in handling complex sample data. The recent emergence of deep learning has revolutionized medical image analysis, driving substantial advancements in this field. This review focuses on recent progress in deep learning for pulmonary nodule detection, segmentation, and classification. Traditional machine learning methods, such as SVM and KNN, have shown limitations, paving the way for advanced approaches like Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), and Generative Adversarial Networks (GAN). The integration of ensemble models and novel techniques is also discussed, emphasizing the latest developments in lung cancer diagnosis. Deep learning algorithms, combined with various analytical techniques, have markedly improved the accuracy and efficiency of pulmonary nodule analysis, surpassing traditional methods, particularly in nodule classification. Although challenges remain, continuous technological advancements are expected to further strengthen the role of deep learning in medical diagnostics, especially for early lung cancer detection and diagnosis.
 
