@@ -4,6 +4,8 @@ Authors: [Guohui Cai](https://github.com/CaiGuoHui123), [Ying Cai](https://ieeex
 
 *Corresponding author. †Project lead.
 
+***EAAI 2025***
+
 [[**Paper Link**](https://arxiv.org/abs/2410.14769)] [[Papers With Code](https://paperswithcode.com/paper/medical-ai-for-early-detection-of-lung-cancer)]
 
 ![img](https://github.com/user-attachments/assets/584875dd-2db6-4b97-8b2d-245ef0b801a8)
